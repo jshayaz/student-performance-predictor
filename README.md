@@ -34,12 +34,3 @@ This project predicts whether an engineering student is likely to **Pass** or **
 - Streamlit (for UI)
 - Joblib (for saving model)
 
----
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/student-performance-predictor.git
-cd student-performance-predictor
